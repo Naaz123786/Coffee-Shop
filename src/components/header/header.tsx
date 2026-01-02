@@ -19,7 +19,7 @@ export default function Header() {
   };
 
   return (
-    <header>
+    <header className="py-8">
       <Wrapper>
         <div className="flex items-center justify-between">
           <Logo />

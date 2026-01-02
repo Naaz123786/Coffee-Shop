@@ -46,6 +46,12 @@
   --radius-4xl: calc(var(--radius) + 16px);
 
   --font-poppins: var(--font-poppins);
+
+  /* COLOR */
+  --color-bageround: #f6ebda;
+  --color-primary: #ff902b;
+  --color-base: #2f2105;
+  --color-surface: #f9d9aa;
 }
 
 :root {
