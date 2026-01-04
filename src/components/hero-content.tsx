@@ -9,7 +9,7 @@ export default function HeroContent() {
         className="text-3xl font-poppins leading-[1.2] font-semibold sm:text-4xl md:text-5xl 
   text-base"
       >
-        Enjoy your<span className="text-primary">coffee</span>
+        Enjoy your <span className="text-primary"> coffee </span>
         before your activity
       </h1>
       <p className="text-base mt-6 font-poppins leading-[1.6]">

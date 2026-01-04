@@ -18,3 +18,10 @@ export type PopularProduct = {
   image: string;
   temperatures: Temperature[];
 };
+
+export type TDeliveryStep = {
+  id: number;
+  title: string;
+  description: string;
+  icon: string;
+};
